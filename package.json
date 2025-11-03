@@ -1,13 +1,13 @@
 {
   "name": "blog-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Yksinkertainen Node.js-blogi",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "1rasd",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^2.2.0",
