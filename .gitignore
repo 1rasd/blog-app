@@ -1,0 +1,9 @@
+# Älä lähetä node-modules -kansiota GitHubiin
+node_modules
+
+# Ympäristömuuttujat (jos myöhemmin tulee käyttöön)
+.env
+
+# Väliaikaiset tiedostot ja lokit
+*.log
+.DS_Store
