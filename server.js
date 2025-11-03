@@ -68,3 +68,4 @@ app.get('/api/posts/:id', async (req, res) => {
 
 // 🔹 Käynnistä serveri
 app.listen(PORT, () => console.log(`Serveri käynnissä: http://localhost:${PORT}`));
+// Päivitetty julkaisu Supabasea varten
